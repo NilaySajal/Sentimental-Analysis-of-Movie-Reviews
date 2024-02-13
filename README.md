@@ -27,7 +27,7 @@ labeled train/test sets, a negative review has a score <= 4 out of 10,
 and a positive review has a score >= 7 out of 10. Thus reviews with
 more neutral ratings are not included in the train/test sets. In the
 unsupervised set, reviews of any rating are included and there are an
-even number of reviews > 5 and <= 5.
+even number of reviews > 5 and <= 5. The dataset can be accessed from this link [Dataset](https://drive.google.com/file/d/1ZGKRN-GYT9mmUeUuP9R7ypWPo081izIG/view?usp=sharing).
 
 Files
 
